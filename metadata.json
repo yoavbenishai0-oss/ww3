@@ -1,0 +1,6 @@
+{
+  "name": "10 Minutes to Zero: 1995 Norwegian Rocket Crisis",
+  "description": "An interactive International Relations classroom simulation placing players as President Boris Yeltsin during the 1995 Norwegian Rocket Crisis, testing Robinson's National Interests and Cimbala's C3I theories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
